@@ -1,0 +1,9 @@
+<?php
+echo "Nama    : Muhammad Farhan";
+echo "<br>";
+echo "Sekolah : SMK Taruna Bhakti Depok";
+echo "<br>";
+echo "Kelas   : XI RPL 2";
+echo "<br>";
+echo "Alamar  : Jln. Sosial 3 Rw.021 Rt.08 No.16B";
+?>
