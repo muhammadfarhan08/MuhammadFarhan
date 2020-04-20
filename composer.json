@@ -1,0 +1,9 @@
+{
+    "name" : "starbhak/belajar-composer",
+    "description": "untuk kebutuhan belajar composer",
+    "type": "project",
+    "license" : "GPL",
+    "require" : {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
